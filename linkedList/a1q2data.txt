@@ -1,0 +1,22 @@
+21
+1;CS Lewis;The Lion, the Witch, and the Wardrobe
+2;Deitel and Deitel;C++ How to program
+3;Betty Edwards;Drawing on the Right Side of the Brain
+4;Neil Gaiman;Neverwhere
+5;Neil Gaiman & Terry Pratchett;Good Omens
+6;Gordon Korman;No Coins Please
+7;Gordon Korman;I Want to Go Home
+8;Terry Pratchett;Feet of Clay
+9;Terry Pratchett;Men at Arms
+10;Terry Pratchett;Jingo
+11;Terry Pratchett;Night Watch
+12;Terry Pratchett;Going Postal
+13;Terry Pratchett;Witches Abroad
+14;Bjarne Stroustrup;The C++ Programming Language
+15;Amy Tan;Joy Luck Club
+16;JRR Tolkien;Fellowship of the Rings
+17;JRR Tolkien;The Two Towers
+18;JRR Tolkien;Return of the King
+19;Bill Watterson;Calvin and Hobbes
+20;Mark Allen Weiss;Data Structures and Algorithms
+21;HG Wells;War of the Worlds
